@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\bin\Debug\IPOTEKA.exe.config
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\bin\Debug\IPOTEKA.exe
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\bin\Debug\IPOTEKA.pdb
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.Form1.resources
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.Properties.Resources.resources
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.exe
+C:\Users\Admin\source\repos\IPOTEKA\IPOTEKA\obj\Debug\IPOTEKA.pdb
